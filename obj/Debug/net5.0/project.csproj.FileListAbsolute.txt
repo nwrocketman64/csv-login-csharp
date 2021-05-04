@@ -1,0 +1,16 @@
+E:\School\2021\2021-spring\Applied_Programming\Sprint1\project\bin\Debug\net5.0\project.exe
+E:\School\2021\2021-spring\Applied_Programming\Sprint1\project\bin\Debug\net5.0\project.deps.json
+E:\School\2021\2021-spring\Applied_Programming\Sprint1\project\bin\Debug\net5.0\project.runtimeconfig.json
+E:\School\2021\2021-spring\Applied_Programming\Sprint1\project\bin\Debug\net5.0\project.runtimeconfig.dev.json
+E:\School\2021\2021-spring\Applied_Programming\Sprint1\project\bin\Debug\net5.0\project.dll
+E:\School\2021\2021-spring\Applied_Programming\Sprint1\project\bin\Debug\net5.0\ref\project.dll
+E:\School\2021\2021-spring\Applied_Programming\Sprint1\project\bin\Debug\net5.0\project.pdb
+E:\School\2021\2021-spring\Applied_Programming\Sprint1\project\obj\Debug\net5.0\project.csprojAssemblyReference.cache
+E:\School\2021\2021-spring\Applied_Programming\Sprint1\project\obj\Debug\net5.0\project.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\2021\2021-spring\Applied_Programming\Sprint1\project\obj\Debug\net5.0\project.AssemblyInfoInputs.cache
+E:\School\2021\2021-spring\Applied_Programming\Sprint1\project\obj\Debug\net5.0\project.AssemblyInfo.cs
+E:\School\2021\2021-spring\Applied_Programming\Sprint1\project\obj\Debug\net5.0\project.csproj.CoreCompileInputs.cache
+E:\School\2021\2021-spring\Applied_Programming\Sprint1\project\obj\Debug\net5.0\project.dll
+E:\School\2021\2021-spring\Applied_Programming\Sprint1\project\obj\Debug\net5.0\ref\project.dll
+E:\School\2021\2021-spring\Applied_Programming\Sprint1\project\obj\Debug\net5.0\project.pdb
+E:\School\2021\2021-spring\Applied_Programming\Sprint1\project\obj\Debug\net5.0\project.genruntimeconfig.cache

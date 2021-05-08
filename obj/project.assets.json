@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\School\\2021\\2021-spring\\Applied_Programming\\Sprint1\\project\\project.csproj",
+      "projectUniqueName": "C:\\Users\\Nathan\\Documents\\csv-login-csharp\\project.csproj",
       "projectName": "project",
-      "projectPath": "E:\\School\\2021\\2021-spring\\Applied_Programming\\Sprint1\\project\\project.csproj",
+      "projectPath": "C:\\Users\\Nathan\\Documents\\csv-login-csharp\\project.csproj",
       "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
-      "outputPath": "E:\\School\\2021\\2021-spring\\Applied_Programming\\Sprint1\\project\\obj\\",
+      "outputPath": "C:\\Users\\Nathan\\Documents\\csv-login-csharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
